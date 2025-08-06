@@ -54,11 +54,11 @@ Godot Engine
 Go
 
 <!-- tools and languages ends --> </details>
+<img src="https://www.kindpng.com/picc/m/73-734096_web-developer-icon-png-transparent-png.png" alt="Web Developer" width="500">
 Feel free to contact me anytime! :yum:
 <br><br>
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
-
+<a href="https://t.me/Digitronix" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Digitronix-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@Digitronix" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40Digitronix-blueviolet"></a>
+<a href="https://linkedin.com/in/Digitronix" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Digitronix-informational"></a>
+<a href="mailto:digitronix@poi.lol"><img src="https://img.shields.io/badge/Email-digitronix%40poi.lol-orange"></a>
+<a href="https://digitronix.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-digitronix.dev-red"></a>
