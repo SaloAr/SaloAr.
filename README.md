@@ -32,7 +32,6 @@ WhoisBot
 Moe API
 
 <details> <summary>:trophy: Github Stats</summary> <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi"> <img src="https://github-profile-trophy.vercel.app/?username=moepoi"> </details>
-<img src="https://img.anili.st/user/161753" width="500">
 :bar_chart: Recent Activity
 <details> <summary>Click to expand</summary> <!-- activity starts -->
 Worked on feature X
